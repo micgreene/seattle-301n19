@@ -1,0 +1,21 @@
+#logo img {
+  float: left;
+}
+
+nav {
+  margin-top: 25px;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  padding-right: 2px;
+}
+
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
