@@ -3,7 +3,8 @@
 ## Announcements
 
 - Late submission penalties:  Labs (-2pts) and Code Challenges (-1pts)
-- 1:1 assignment in Canvas - schedule via Calendly - https://bit.ly/2FUDF6a
+- 1:1 canvas assignment meeting (Canvas)
+
 
 ## Overview
 
@@ -14,9 +15,6 @@ We will begin a lab assignment today which will carry over to the assignment for
 ## Daily Plan
 
 - Warm-up exercise
-- Review code challenges
-- Introduction of today's code challenge topic
-- Code review of lab assignment
 - jQuery selectors
 - jQuery events
 - Code Demo
