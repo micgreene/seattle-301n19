@@ -6,6 +6,7 @@ Today we will continue to work with third-party APIs to request data. Part of be
 
 ## Daily Plan
 
+- Partner Power Hour (PPH) today
 - Warm-up exercise
 - Review code challenges
 - Introduction of today's code challenge topic
