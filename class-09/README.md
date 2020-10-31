@@ -1,5 +1,15 @@
 # Advanced Topics
 
+## Feedback
+
+- Regex...?
+- TAs
+- Ambiguity/Not enough information
+- TAs
+- Too slow!
+- Too fast!
+
+
 ## Overview
 
 Today we will be diving a little bit deeper into Express and higher level programming in general, covering the following topics:
